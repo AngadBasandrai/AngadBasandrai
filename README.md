@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Angad Basandrai</h1> <h3 align="center">A high schooler passionate about game development from India</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=angadbasandrai&label=Profile%20views&color=0e75b6&style=flat" alt="angadbasandrai" /> </p>
+<h1 align="center">Hi 👋, I'm Angad Basandrai</h1> 
+<h3 align="center">A high schooler passionate about game development from India</h3>
+
+<br/>
+
 
 - 🔭 I’m currently working on **<a href="https://github.com/AngadBasandrai/chronix-os-x86-asm">Chronix OS</a>**
 
