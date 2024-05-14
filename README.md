@@ -46,9 +46,9 @@
 </p>
   <br/>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngadBasandrai&layout=compact&theme=codeSTACKr&langs_count=16" alt="angadbasandrai" /></p> 
-     <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/><br/>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=AngadBasandrai&layout=compact&theme=codeSTACKr" alt="angadbasandrai" /></p>
 
+<br/>
 <h2 align="center">Socials</h3>
  <p align="center">
    <a href="https://github.com/AngadBasandrai" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="angad-basandrai" height="45" width="60" /></a> 
