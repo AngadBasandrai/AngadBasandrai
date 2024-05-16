@@ -27,8 +27,9 @@
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/> </a> 
 
 <h3 align="left">Back End</h4>
+  <a href="https://www.nasm.us" target="_blank" rel="noreferrer"><img src="https://www.nasm.us/images/nasm.png" alt="nasm" width="40" height="40"/></a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a>  
 
