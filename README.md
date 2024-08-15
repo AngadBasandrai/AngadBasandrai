@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angad Basandrai</h1> 
-<h3 align="center">A high schooler passionate about game development from India</h3>
+<h3 align="center">A high schooler from India passionate about game development</h3>
 
 <br/>
 
