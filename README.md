@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Angad Basandrai</h1> 
-<h3 align="center">A high schooler from India passionate about game development</h3>
+<h3 align="center">A B.Tech undergrad from India passionate about game development, low level programming and anything that messes with my mind</h3>
 
 <br/>
 
 
-- 🔭 I’m currently working on **<a href="https://github.com/AngadBasandrai/chronix-os-x86-asm">Chronix OS</a>**
+- 🔭 I’m currently working on making it to next year alive.
 
-- 🌱 I’m currently learning **Rust, Cybersecurity**
+- 🌱 I’m currently learning **how to act like a human**
 
 - 📫 How to reach me: **angadbasandrai@gmail.com**
 
